@@ -34,7 +34,9 @@ namespace ExcerciseClassesOOP01
 
             Console.WriteLine($"Account balance after deposit is {heikkisAccount.amount}");
 
+            heikkisSwissAccount.Deposit(300);
 
+            Console.WriteLine($"Heikkis Swiss account balance is now {heikkisSwissAccount.amount}");
 
 
         }
