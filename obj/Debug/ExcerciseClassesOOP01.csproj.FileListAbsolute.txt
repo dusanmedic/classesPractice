@@ -1,0 +1,7 @@
+D:\vezbe\New folder\ExcerciseClassesOOP01\bin\Debug\ExcerciseClassesOOP01.exe.config
+D:\vezbe\New folder\ExcerciseClassesOOP01\bin\Debug\ExcerciseClassesOOP01.exe
+D:\vezbe\New folder\ExcerciseClassesOOP01\bin\Debug\ExcerciseClassesOOP01.pdb
+D:\vezbe\New folder\ExcerciseClassesOOP01\obj\Debug\ExcerciseClassesOOP01.csproj.AssemblyReference.cache
+D:\vezbe\New folder\ExcerciseClassesOOP01\obj\Debug\ExcerciseClassesOOP01.csproj.CoreCompileInputs.cache
+D:\vezbe\New folder\ExcerciseClassesOOP01\obj\Debug\ExcerciseClassesOOP01.exe
+D:\vezbe\New folder\ExcerciseClassesOOP01\obj\Debug\ExcerciseClassesOOP01.pdb
